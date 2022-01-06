@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "RustyWM"
+name = "rusty_wm"
 version = "0.1.0"
